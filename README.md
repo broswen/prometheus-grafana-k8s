@@ -1,6 +1,6 @@
 # Prometheus and Grafana Kubernetes manifests
 
-This is a repo of Kubernetes manifests to install Prometheus and Grafana on a microk8s Kubernetes cluster.
+This is a repo of Kubernetes manifests to install Prometheus and Grafana on a k3s Kubernetes cluster.
 
 This is configured for my home server that has a Logical Volume mounted at `/mnt/storage`.
 
